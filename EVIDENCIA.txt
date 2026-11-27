@@ -1,10 +1,10 @@
-Nombre estudiante:
-Sede:
+Nombre estudiante: Ignacio Díaz
+Sede: CFT Santiago
 
-Resultado unit tests final:
-Resultado API:
-Resultado Selenium:
-URL repositorio GitHub:
-URL Pull Request:
-Estado GitHub Actions:
-Decision QA final:
+Resultado unit tests final: Aprobado (6/6 correctas, 0 errores, verificadas en Debug y Release)
+Resultado API: Aprobado (API-01 200 con 2 espacios; API-02 201 con total $54.000; API-03 400 con propiedad error)
+Resultado Selenium: Aprobado (2/2 pruebas correctas, 0 errores en http://localhost:5080)
+URL repositorio GitHub: https://github.com/IgnacioDiaz270/Prueba3_ReservaCFT_Aplicacion
+URL Pull Request: N/A
+Estado GitHub Actions: Success
+Decision QA final: APROBADO
