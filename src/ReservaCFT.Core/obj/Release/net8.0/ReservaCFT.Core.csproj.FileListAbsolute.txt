@@ -1,0 +1,11 @@
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\bin\Release\net8.0\ReservaCFT.Core.deps.json
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\bin\Release\net8.0\ReservaCFT.Core.dll
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\bin\Release\net8.0\ReservaCFT.Core.pdb
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ReservaCFT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ReservaCFT.Core.AssemblyInfoInputs.cache
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ReservaCFT.Core.AssemblyInfo.cs
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ReservaCFT.Core.csproj.CoreCompileInputs.cache
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ReservaCFT.Core.dll
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\refint\ReservaCFT.Core.dll
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ReservaCFT.Core.pdb
+C:\Prueba3_ReservaCFT_Aplicacion\src\ReservaCFT.Core\obj\Release\net8.0\ref\ReservaCFT.Core.dll

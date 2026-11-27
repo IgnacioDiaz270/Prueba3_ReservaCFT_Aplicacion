@@ -1,0 +1,10 @@
+Nombre estudiante:
+Sede:
+
+Resultado unit tests final:
+Resultado API:
+Resultado Selenium:
+URL repositorio GitHub:
+URL Pull Request:
+Estado GitHub Actions:
+Decision QA final:
